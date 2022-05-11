@@ -465,7 +465,7 @@ hr {
   .parent {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 2fr);
     grid-column-gap: 12px;
     grid-row-gap: 12px;
   }
